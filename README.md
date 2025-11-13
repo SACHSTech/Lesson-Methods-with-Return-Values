@@ -474,7 +474,7 @@ true
 <br>
 
 ## Problem 9 — Average of Three  
-**Task:** Return the average of three integers as a double.
+Return the average of three integers as a double.
 
 ```java
 public class Problem9 extends ConsoleProgram {
